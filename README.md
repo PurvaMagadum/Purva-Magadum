@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">I'm a tech developer with a passion for creating innovative solutions.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purvamagadum&label=Profile%20views&color=0e75b6&style=flat" alt="purvamagadum" /> </p>
 
